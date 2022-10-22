@@ -37,4 +37,4 @@ My name is Oluwatobi and I'm a Front End Developer who loves to work with JavaSc
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=your-ISIKALU01
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-ISIKALU01&theme=dark&background=000000)](https://git.io/streak-stats)
